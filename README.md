@@ -72,3 +72,11 @@ Website dibuat menggunakan **PHP & MySQL** dengan **Prepared Statement** untuk s
    - Struktur folder sederhana, semua file berada di satu folder → tidak ada masalah path atau Not Found.
 
 ## Dokumentasi
+
+https://github.com/user-attachments/assets/262c82d2-f2f8-409e-b38f-2225a05dd367
+
+
+
+
+
+
